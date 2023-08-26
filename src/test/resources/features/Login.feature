@@ -10,7 +10,7 @@ Feature: Login scenarios
       | username | password | err |
       | invalidUsername | secret_sauce | Username and password do not match any user in this service. |
 
-  @smoke
+  @smoke @regression
   Scenario Outline: Login with invalid password
     When I enter username as "<username>"
     And I enter password as "<password>"
