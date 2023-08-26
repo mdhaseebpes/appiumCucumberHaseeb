@@ -1,6 +1,6 @@
 
 
-# Mobile Native App Automation Framework :) - # appiumCucumberHaseeb
+# Mobile Native App Automation Framework :) - appiumCucumberHaseeb
 
 
 # Prerequisites
