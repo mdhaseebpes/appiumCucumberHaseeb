@@ -11,7 +11,7 @@ Feature: Product scenarios
 #      | Test.allTheThings() T-Shirt (Red) | $15.99 |
 #      | Sauce Labs Backpack     | $29.99 |
 
-  @smoke
+  @smoke @regression
   Scenario Outline: Validate product info on Product Details page
     Given I'm logged in
     When I click product title "<title>"
