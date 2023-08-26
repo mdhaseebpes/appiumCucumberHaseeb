@@ -1,0 +1,26 @@
+[Android_Pixel 2 INFO ] 2023-08-26 17:31:08.247 AppiumServerManager:32 - Appium server started
+[Android_Pixel 2 INFO ] 2023-08-26 17:31:13.868 DriverManager:32 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2023-08-26 17:31:13.918 PropertyManager:22 - loading config properties
+[Android_Pixel 2 INFO ] 2023-08-26 17:31:13.920 CapabilityManager:20 - getting capabilities
+[Android_Pixel 2 INFO ] 2023-08-26 17:31:13.923 CapabilityManager:36 - appUrl is/Users/mohammedhaseebalikhan/Desktop/Appium2.0/AppiumCucumberFW/appiumCucumberHaseeb/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Pixel 2 INFO ] 2023-08-26 17:31:52.612 DriverManager:44 - Driver is initialized
+[Android_Pixel 2 INFO ] 2023-08-26 17:32:04.094 BasePage:73 - login with invalidUsername
+[Android_Pixel 2 INFO ] 2023-08-26 17:32:07.801 BasePage:73 - password is secret_sauce
+[Android_Pixel 2 INFO ] 2023-08-26 17:32:08.978 BasePage:56 - press login button
+[Android_Pixel 2 INFO ] 2023-08-26 17:32:14.505 BasePage:99 - error text is - Username and password do not match any user in this service.
+[Android_Pixel 2 INFO ] 2023-08-26 17:32:19.725 DriverManager:32 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2023-08-26 17:32:19.725 CapabilityManager:20 - getting capabilities
+[Android_Pixel 2 INFO ] 2023-08-26 17:32:19.726 CapabilityManager:36 - appUrl is/Users/mohammedhaseebalikhan/Desktop/Appium2.0/AppiumCucumberFW/appiumCucumberHaseeb/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Pixel 2 INFO ] 2023-08-26 17:32:49.300 DriverManager:44 - Driver is initialized
+[Android_Pixel 2 INFO ] 2023-08-26 17:32:56.456 BasePage:73 - login with standard_user
+[Android_Pixel 2 INFO ] 2023-08-26 17:32:58.525 BasePage:73 - password is secret_sauce
+[Android_Pixel 2 INFO ] 2023-08-26 17:32:59.327 BasePage:56 - press login button
+[Android_Pixel 2 INFO ] 2023-08-26 17:33:09.885 BasePage:99 - product page title is - PRODUCTS
+[Android_Pixel 2 INFO ] 2023-08-26 17:33:14.912 DriverManager:32 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2023-08-26 17:33:14.913 CapabilityManager:20 - getting capabilities
+[Android_Pixel 2 INFO ] 2023-08-26 17:33:14.913 CapabilityManager:36 - appUrl is/Users/mohammedhaseebalikhan/Desktop/Appium2.0/AppiumCucumberFW/appiumCucumberHaseeb/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Pixel 2 INFO ] 2023-08-26 17:33:25.882 DriverManager:44 - Driver is initialized
+[Android_Pixel 2 INFO ] 2023-08-26 17:33:30.627 BasePage:73 - login with standard_user
+[Android_Pixel 2 INFO ] 2023-08-26 17:33:33.353 BasePage:73 - password is secret_sauce
+[Android_Pixel 2 INFO ] 2023-08-26 17:33:34.096 BasePage:56 - press login button
+[Android_Pixel 2 INFO ] 2023-08-26 17:33:40.049 BasePage:99 - product title is: Sauce Labs Bolt T-ShirtSauce Labs Bolt T-Shirt

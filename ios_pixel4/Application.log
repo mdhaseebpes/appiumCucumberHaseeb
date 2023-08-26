@@ -1,0 +1,26 @@
+[ios_pixel4 INFO ] 2023-08-26 15:01:05.181 AppiumServerManager:32 - Appium server started
+[ios_pixel4 INFO ] 2023-08-26 15:01:10.711 DriverManager:32 - initializing Appium driver
+[ios_pixel4 INFO ] 2023-08-26 15:01:10.748 PropertyManager:22 - loading config properties
+[ios_pixel4 INFO ] 2023-08-26 15:01:10.749 CapabilityManager:20 - getting capabilities
+[ios_pixel4 INFO ] 2023-08-26 15:01:10.752 CapabilityManager:44 - appUrl is/Users/mohammedhaseebalikhan/Desktop/Appium2.0/AppiumCucumberFW/appiumCucumberHaseeb/src/test/resources/apps/SwagLabsMobileApp.app
+[ios_pixel4 INFO ] 2023-08-26 15:03:46.341 DriverManager:44 - Driver is initialized
+[ios_pixel4 INFO ] 2023-08-26 15:03:51.110 BasePage:73 - login with invalidUsername
+[ios_pixel4 INFO ] 2023-08-26 15:03:55.624 BasePage:73 - password is secret_sauce
+[ios_pixel4 INFO ] 2023-08-26 15:03:57.502 BasePage:56 - press login button
+[ios_pixel4 INFO ] 2023-08-26 15:04:01.968 BasePage:99 - error text is - Username and password do not match any user in this service.
+[ios_pixel4 INFO ] 2023-08-26 15:04:07.094 DriverManager:32 - initializing Appium driver
+[ios_pixel4 INFO ] 2023-08-26 15:04:07.094 CapabilityManager:20 - getting capabilities
+[ios_pixel4 INFO ] 2023-08-26 15:04:07.094 CapabilityManager:44 - appUrl is/Users/mohammedhaseebalikhan/Desktop/Appium2.0/AppiumCucumberFW/appiumCucumberHaseeb/src/test/resources/apps/SwagLabsMobileApp.app
+[ios_pixel4 INFO ] 2023-08-26 15:04:16.807 DriverManager:44 - Driver is initialized
+[ios_pixel4 INFO ] 2023-08-26 15:04:20.505 BasePage:73 - login with standard_user
+[ios_pixel4 INFO ] 2023-08-26 15:04:24.881 BasePage:73 - password is secret_sauce
+[ios_pixel4 INFO ] 2023-08-26 15:04:26.662 BasePage:56 - press login button
+[ios_pixel4 INFO ] 2023-08-26 15:04:31.880 BasePage:99 - product page title is - PRODUCTS
+[ios_pixel4 INFO ] 2023-08-26 15:04:36.898 DriverManager:32 - initializing Appium driver
+[ios_pixel4 INFO ] 2023-08-26 15:04:36.899 CapabilityManager:20 - getting capabilities
+[ios_pixel4 INFO ] 2023-08-26 15:04:36.899 CapabilityManager:44 - appUrl is/Users/mohammedhaseebalikhan/Desktop/Appium2.0/AppiumCucumberFW/appiumCucumberHaseeb/src/test/resources/apps/SwagLabsMobileApp.app
+[ios_pixel4 INFO ] 2023-08-26 15:04:46.274 DriverManager:44 - Driver is initialized
+[ios_pixel4 INFO ] 2023-08-26 15:04:50.184 BasePage:73 - login with standard_user
+[ios_pixel4 INFO ] 2023-08-26 15:04:54.660 BasePage:73 - password is secret_sauce
+[ios_pixel4 INFO ] 2023-08-26 15:04:56.503 BasePage:56 - press login button
+[ios_pixel4 INFO ] 2023-08-26 15:05:11.024 BasePage:115 - product title is: Sauce Labs Bolt T-ShirtSauce Labs Bolt T-Shirt
