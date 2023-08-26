@@ -1,7 +1,7 @@
 # appiumCucumberHaseeb
 
 
-echnologies/Tools used in building the framework
+Technologies/Tools used in building the framework
 =================================================
 - IntelliJ - IDE
 - Appium - Mobile Automation library
