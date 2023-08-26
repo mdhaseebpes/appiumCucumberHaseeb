@@ -15,7 +15,7 @@ import static io.cucumber.testng.CucumberOptions.SnippetType.CAMELCASE;
         glue = {"com.qa.steps"},
         plugin = {"pretty",
                 "summary",
-                "com.qa.listener.CucumberExtentReportListener:",
+               // "com.qa.listener.CucumberExtentReportListener:",
                 "html:target/cucumber-reports/cucumber.html",
                 "json:target/cucumber-reports/cucumber.json",
                 "io.qameta.allure.cucumber6jvm.AllureCucumber6Jvm"},
