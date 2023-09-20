@@ -39,10 +39,10 @@ public String getDesc() {
 }
 
 public String getPrice() throws Exception {
-	switch(new GlobalParams().getPlatformName()){
-		case "Android":
+	switch(new GlobalParams().getPlatformName().toLowerCase()){
+		case "android":
 			return getText(andScrollToElementUsingUiScrollable("description", "test-Price"), "price is: ");
-		case "iOS":
+		case "ios":
 			return getText(iOSScrollToElementUsingMobileScroll(iOSProductPrice), "price is: ");
 		default:
 			throw new Exception("Invalid platform name");
